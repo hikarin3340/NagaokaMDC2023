@@ -21,4 +21,4 @@ CANトランシーバ：MCP2561
 MDC(MotorDriverController)
 
 Kicadのデータは部内限定公開してます。（esaに）
-学外でほしい方がいたら hikarin3340@gmail.com まで（そのときの気分次第で対応します）
+学外でほしい方がいたら hikarin3340@gmail.com に
